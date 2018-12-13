@@ -213,3 +213,8 @@ print(sequence.pad_sequences(sequences, maxlen=10))
 [[0 0 0 0 0 0 1 2 3 4]
  [0 0 0 0 0 0 1 2 3 5]]
 ```
+
+参考：
+https://keras-cn.readthedocs.io/en/latest/preprocessing/sequence/.
+
+https://blog.csdn.net/lovebyz/article/details/77712003.
